@@ -1,0 +1,18 @@
+package newproject;
+
+public class fiveintegersum {
+
+	public static void main(String[] args) {
+		int number1=11;
+		int number2=22;
+		int number3=33;
+		int number4=44;
+		int number5=55;
+		int no;
+		
+		no= number1 - number2 - number3 + number4 +number5;
+		System.out.println("your answer is");
+		System.out.println(no);
+	}
+
+}
